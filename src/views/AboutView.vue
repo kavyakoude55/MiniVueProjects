@@ -1,6 +1,8 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <h1>Page No 2</h1>
+    <h2>Home qwertyu</h2>
   </div>
 </template>
 
